@@ -1,0 +1,151 @@
+qid,hop_count,retriever,gold,pred,em,f1
+2hop__770487_494646,2,vector,Mono County,"Lee Vining, California",0.0,0.0
+2hop__770487_494646,2,graph,Mono County,Not provided in the context.,0.0,0.0
+2hop__770487_494646,2,hybrid,Mono County,Mammoth Lakes,0.0,0.0
+2hop__263638_69048,2,vector,Honorable Justice Abiodun Smith,Adama Lamikanra,0.0,0.0
+2hop__263638_69048,2,graph,Honorable Justice Abiodun Smith,The context does not provide information about the Chief Judge of Tebesa Nemine's birthplace.,0.0,0.0
+2hop__263638_69048,2,hybrid,Honorable Justice Abiodun Smith,Adama Lamikanra,0.0,0.0
+2hop__739909_807845,2,vector,Digital First Media,MediaNews Group,0.0,0.0
+2hop__739909_807845,2,graph,Digital First Media,Not provided in the context.,0.0,0.0
+2hop__739909_807845,2,hybrid,Digital First Media,MediaNews Group,0.0,0.0
+2hop__46550_85990,2,vector,"anti-slavery activists, modernizers, ex Whigs and ex Free Soilers",Nancy Pelosi,0.0,0.0
+2hop__46550_85990,2,graph,"anti-slavery activists, modernizers, ex Whigs and ex Free Soilers",Not provided in the context.,0.0,0.0
+2hop__46550_85990,2,hybrid,"anti-slavery activists, modernizers, ex Whigs and ex Free Soilers",Democratic Party leaders.,0.0,0.0
+2hop__132954_533882,2,vector,Martin Marietta,Martin Marietta Corporation,0.0,0.8
+2hop__132954_533882,2,graph,Martin Marietta,The context does not provide information about a company that built ASM-N-5 Gorgon V or any related merger.,0.0,0.0
+2hop__132954_533882,2,hybrid,Martin Marietta,Martin Marietta Corporation,0.0,0.8
+2hop__76314_177869,2,vector,Helen Pitts Douglass,Helen Pitts Douglass,1.0,1.0
+2hop__76314_177869,2,graph,Helen Pitts Douglass,Louis Philippe I,0.0,0.0
+2hop__76314_177869,2,hybrid,Helen Pitts Douglass,William Cooper Nell,0.0,0.0
+2hop__215124_83837,2,vector,Karen Fairchild,Karen Fairchild,1.0,1.0
+2hop__215124_83837,2,graph,Karen Fairchild,J.J. Watt,0.0,0.0
+2hop__215124_83837,2,hybrid,Karen Fairchild,Karen Fairchild,1.0,1.0
+2hop__358582_189042,2,vector,New Renaissance Records,Capitol Records,0.0,0.4
+2hop__358582_189042,2,graph,New Renaissance Records,Not provided in the context.,0.0,0.0
+2hop__358582_189042,2,hybrid,New Renaissance Records,Capitol Records,0.0,0.4
+2hop__34734_92852,2,vector,1940,1938,0.0,0.0
+2hop__34734_92852,2,graph,1940,Not provided in the context.,0.0,0.0
+2hop__34734_92852,2,hybrid,1940,Beginning in 1938.,0.0,0.0
+2hop__678516_179720,2,vector,Harold Knight,Laura Knight,0.0,0.5
+2hop__678516_179720,2,graph,Harold Knight,Not provided in the context.,0.0,0.0
+2hop__678516_179720,2,hybrid,Harold Knight,Ruby Loftus,0.0,0.0
+2hop__333020_69048,2,vector,Honorable Justice Abiodun Smith,Adama Lamikanra,0.0,0.0
+2hop__333020_69048,2,graph,Honorable Justice Abiodun Smith,Not provided in the context.,0.0,0.0
+2hop__333020_69048,2,hybrid,Honorable Justice Abiodun Smith,Not specified.,0.0,0.0
+2hop__31085_23241,2,vector,48.8 percent,49.3 percent Christian,0.0,0.4
+2hop__31085_23241,2,graph,48.8 percent,Muslim.,0.0,0.0
+2hop__31085_23241,2,hybrid,48.8 percent,49.3 percent Christian,0.0,0.4
+2hop__401710_456439,2,vector,Helen Mirren,Kathy Bates,0.0,0.0
+2hop__401710_456439,2,graph,Helen Mirren,Not provided in the context.,0.0,0.0
+2hop__401710_456439,2,hybrid,Helen Mirren,Sarah Jane,0.0,0.0
+2hop__510860_22402,2,vector,"nearly 25,000",Not specified.,0.0,0.0
+2hop__510860_22402,2,graph,"nearly 25,000",Not provided in the context.,0.0,0.0
+2hop__510860_22402,2,hybrid,"nearly 25,000",Not specified.,0.0,0.0
+2hop__765180_123956,2,vector,15 February 1942,Not applicable.,0.0,0.0
+2hop__765180_123956,2,graph,15 February 1942,The context does not provide information about the Battle at Choo Hoey's birthplace.,0.0,0.0
+2hop__765180_123956,2,hybrid,15 February 1942,Not applicable.,0.0,0.0
+2hop__418360_67370,2,vector,"January 19, 2018","The context does not provide information about ""real time with the author of The New New Rules.""",0.0,0.0
+2hop__418360_67370,2,graph,"January 19, 2018",Not provided in the context.,0.0,0.0
+2hop__418360_67370,2,hybrid,"January 19, 2018","The context does not provide information about ""The New New Rules"" or its author.",0.0,0.0
+2hop__645448_77615,2,vector,1912,1912,1.0,1.0
+2hop__645448_77615,2,graph,1912,Not provided in the context.,0.0,0.0
+2hop__645448_77615,2,hybrid,1912,1951,0.0,0.0
+2hop__433694_20273,2,vector,1572,1572,1.0,1.0
+2hop__433694_20273,2,graph,1572,The context does not provide information about Margaret Knox or her spouse.,0.0,0.0
+2hop__433694_20273,2,hybrid,1572,1572,1.0,1.0
+2hop__865961_159109,2,vector,central Atlantic Ocean,Cabo Verde,0.0,0.0
+2hop__865961_159109,2,graph,central Atlantic Ocean,Cape Verde,0.0,0.0
+2hop__865961_159109,2,hybrid,central Atlantic Ocean,Cabo Verde,0.0,0.0
+2hop__223823_29898,2,vector,CFJC-TV in Kamloops,CFJC-TV,0.0,0.5
+2hop__223823_29898,2,graph,CFJC-TV in Kamloops,CHBC,0.0,0.0
+2hop__223823_29898,2,hybrid,CFJC-TV in Kamloops,CFJC-TV,0.0,0.5
+2hop__252521_80650,2,vector,Martin Short,Jack Frost,0.0,0.0
+2hop__252521_80650,2,graph,Martin Short,Jack Frost,0.0,0.0
+2hop__252521_80650,2,hybrid,Martin Short,Jack Frost,0.0,0.0
+2hop__547045_131879,2,vector,River Great Ouse,None mentioned.,0.0,0.0
+2hop__547045_131879,2,graph,River Great Ouse,Not provided in the context.,0.0,0.0
+2hop__547045_131879,2,hybrid,River Great Ouse,None mentioned.,0.0,0.0
+2hop__543050_245420,2,vector,Citrus Heights,"Fair Oaks, California",0.0,0.0
+2hop__543050_245420,2,graph,Citrus Heights,Not provided in the context.,0.0,0.0
+2hop__543050_245420,2,hybrid,Citrus Heights,Fair Oaks,0.0,0.0
+2hop__32541_85460,2,vector,"$59,039","$27,029 a year",0.0,0.0
+2hop__32541_85460,2,graph,"$59,039",Not provided in the context.,0.0,0.0
+2hop__32541_85460,2,hybrid,"$59,039","$27,029 a year",0.0,0.0
+2hop__608902_653666,2,vector,Lucy Mack Smith,Not specified.,0.0,0.0
+2hop__608902_653666,2,graph,Lucy Mack Smith,Louise Brough Clapp,0.0,0.0
+2hop__608902_653666,2,hybrid,Lucy Mack Smith,Joseph Smith's mother.,0.0,0.0
+3hop1__691197_15840_36002,3,vector,built on 16-bit architectures and offered improved graphics and sound,Larger library of games and lower price point.,0.0,0.11111111111111112
+3hop1__691197_15840_36002,3,graph,built on 16-bit architectures and offered improved graphics and sound,Superior graphics and sound.,0.0,0.4285714285714285
+3hop1__691197_15840_36002,3,hybrid,built on 16-bit architectures and offered improved graphics and sound,Larger library of games.,0.0,0.0
+3hop1__579562_629431_124169,3,vector,1952,1952,1.0,1.0
+3hop1__579562_629431_124169,3,graph,1952,1794,0.0,0.0
+3hop1__579562_629431_124169,3,hybrid,1952,1952,1.0,1.0
+3hop1__128516_30587_83479,3,vector,to stem the flow of merchant shipping that enabled Britain to keep fighting,Not applicable.,0.0,0.0
+3hop1__128516_30587_83479,3,graph,to stem the flow of merchant shipping that enabled Britain to keep fighting,Control of Klaipėda.,0.0,0.13333333333333333
+3hop1__128516_30587_83479,3,hybrid,to stem the flow of merchant shipping that enabled Britain to keep fighting,Destroy the German industrial base.,0.0,0.0
+3hop1__409517_547811_80702,3,vector,Rialto Bridge,Rialto Bridge,1.0,1.0
+3hop1__409517_547811_80702,3,graph,Rialto Bridge,Not provided in the context.,0.0,0.0
+3hop1__409517_547811_80702,3,hybrid,Rialto Bridge,Rialto Bridge,1.0,1.0
+3hop1__390489_502967_84283,3,vector,Warner Music Group,Steve Stevens,0.0,0.0
+3hop1__390489_502967_84283,3,graph,Warner Music Group,Not provided in the context.,0.0,0.0
+3hop1__390489_502967_84283,3,hybrid,Warner Music Group,Sony Music,0.0,0.4
+3hop1__337705_132457_47686,3,vector,Toronto Coach Terminal,Philadelphia Greyhound Terminal,0.0,0.3333333333333333
+3hop1__337705_132457_47686,3,graph,Toronto Coach Terminal,Oklahoma City,0.0,0.0
+3hop1__337705_132457_47686,3,hybrid,Toronto Coach Terminal,Philadelphia Greyhound Terminal,0.0,0.3333333333333333
+3hop1__158848_66089_86107,3,vector,Adulis,Palermo,0.0,0.0
+3hop1__158848_66089_86107,3,graph,Adulis,The main port of Axum.,0.0,0.0
+3hop1__158848_66089_86107,3,hybrid,Adulis,Palermo,0.0,0.0
+3hop1__93963_170667_18967,3,vector,Dutch East Indies,Indonesia,0.0,0.0
+3hop1__93963_170667_18967,3,graph,Dutch East Indies,Rhode Island,0.0,0.0
+3hop1__93963_170667_18967,3,hybrid,Dutch East Indies,Togoland,0.0,0.0
+3hop1__305566_568433_47686,3,vector,Toronto Coach Terminal,Philadelphia Greyhound Terminal,0.0,0.3333333333333333
+3hop1__305566_568433_47686,3,graph,Toronto Coach Terminal,T.F. Green International Airport,0.0,0.0
+3hop1__305566_568433_47686,3,hybrid,Toronto Coach Terminal,Philadelphia Greyhound Terminal,0.0,0.3333333333333333
+3hop1__313670_42197_18397,3,vector,the Politburo,In Korea.,0.0,0.0
+3hop1__313670_42197_18397,3,graph,the Politburo,The context does not provide information about Vladimir Rapoport or any world leader's statements regarding intervention in the Korean conflict.,0.0,0.0
+3hop1__313670_42197_18397,3,hybrid,the Politburo,Moscow,0.0,0.0
+3hop1__28527_42197_18397,3,vector,the Politburo,The context does not provide information about an arguer or the Korean conflict.,0.0,0.0
+3hop1__28527_42197_18397,3,graph,the Politburo,"The context does not provide information regarding Estonia, imperialist powers, or the Korean conflict.",0.0,0.0
+3hop1__28527_42197_18397,3,hybrid,the Politburo,In the Soviet Union.,0.0,0.0
+3hop2__43283_12039_93690,3,vector,2013,After 1988.,0.0,0.0
+3hop2__43283_12039_93690,3,graph,2013,2013,1.0,1.0
+3hop2__43283_12039_93690,3,hybrid,2013,In 1903.,0.0,0.0
+3hop1__857_846_7794,3,vector,8.005 million,Nanjing,0.0,0.0
+3hop1__857_846_7794,3,graph,8.005 million,The context does not provide information about the Yongle emperor or the population of any city in 2010.,0.0,0.0
+3hop1__857_846_7794,3,hybrid,8.005 million,Nanjing,0.0,0.0
+3hop1__786067_228453_10972,3,vector,1970s,1973,0.0,0.0
+3hop1__786067_228453_10972,3,graph,1970s,The context does not provide information about McAfee's benchmark or the election of a black Mayor.,0.0,0.0
+3hop1__786067_228453_10972,3,hybrid,1970s,Not provided in the context.,0.0,0.0
+3hop2__304722_740784_63959,3,vector,1 December 2010,Not applicable.,0.0,0.0
+3hop2__304722_740784_63959,3,graph,1 December 2010,Not provided in the context.,0.0,0.0
+3hop2__304722_740784_63959,3,hybrid,1 December 2010,Not applicable.,0.0,0.0
+4hop1__608132_508773_85832_745702,4,vector,Sebastian Cabot,Sebastian Cabot,1.0,1.0
+4hop1__608132_508773_85832_745702,4,graph,Sebastian Cabot,Not provided in the context.,0.0,0.0
+4hop1__608132_508773_85832_745702,4,hybrid,Sebastian Cabot,Sebastian Cabot,1.0,1.0
+4hop1__344155_765799_282674_759393,4,vector,Green Bay,Pécs,0.0,0.0
+4hop1__344155_765799_282674_759393,4,graph,Green Bay,Providence,0.0,0.0
+4hop1__344155_765799_282674_759393,4,hybrid,Green Bay,Saint Paul,0.0,0.0
+4hop2__567956_14670_8987_8529,4,vector,1943–1992,1939–1945,0.0,0.0
+4hop2__567956_14670_8987_8529,4,graph,1943–1992,"The context does not provide information about the word ""Slavs"" or any national anthem.",0.0,0.0
+4hop2__567956_14670_8987_8529,4,hybrid,1943–1992,1939–2006,0.0,0.0
+4hop2__103790_14670_8987_8529,4,vector,1943–1992,1939–1945,0.0,0.0
+4hop2__103790_14670_8987_8529,4,graph,1943–1992,Not provided in the context.,0.0,0.0
+4hop2__103790_14670_8987_8529,4,hybrid,1943–1992,1939–1945,0.0,0.0
+4hop1__146971_698949_157828_162309,4,vector,2016,1996 Summer Olympics,0.0,0.0
+4hop1__146971_698949_157828_162309,4,graph,2016,1992,0.0,0.0
+4hop1__146971_698949_157828_162309,4,hybrid,2016,1996 Summer Olympics,0.0,0.0
+4hop1__88342_75218_128008_54974,4,vector,about 575 feet,American League,0.0,0.0
+4hop1__88342_75218_128008_54974,4,graph,about 575 feet,National League,0.0,0.0
+4hop1__88342_75218_128008_54974,4,hybrid,about 575 feet,575 feet,0.0,0.8
+4hop1__161605_32392_823060_610794,4,vector,Richland County,Mecklenburg County,0.0,0.5
+4hop1__161605_32392_823060_610794,4,graph,Richland County,Kent County,0.0,0.5
+4hop1__161605_32392_823060_610794,4,hybrid,Richland County,Darlington County,0.0,0.5
+4hop3__373573_132409_146285_35031,4,vector,third-largest,Fourth largest.,0.0,0.0
+4hop3__373573_132409_146285_35031,4,graph,third-largest,Hyderabad,0.0,0.0
+4hop3__373573_132409_146285_35031,4,hybrid,third-largest,"Jacksonville, Florida.",0.0,0.0
+4hop3__524186_219173_548463_72134,4,vector,1839,1824,0.0,0.0
+4hop3__524186_219173_548463_72134,4,graph,1839,Hyderabad became the capital in 1956.,0.0,0.0
+4hop3__524186_219173_548463_72134,4,hybrid,1839,1824,0.0,0.0
+4hop2__160585_14670_8987_8529,4,vector,1943–1992,1939–1945,0.0,0.0
+4hop2__160585_14670_8987_8529,4,graph,1943–1992,Not provided in the context.,0.0,0.0
+4hop2__160585_14670_8987_8529,4,hybrid,1943–1992,1939–1945,0.0,0.0

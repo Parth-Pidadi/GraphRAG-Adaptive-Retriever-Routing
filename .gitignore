@@ -1,0 +1,25 @@
+# Large dataset (download instructions in README)
+data/musique_ans_v1.0_dev.jsonl
+
+# Slide exports
+slide_images/
+
+# Presentation
+*.pptx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.key
